@@ -1,0 +1,1 @@
+Trends limited to do list and peronal diary

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Poppins";
+        src: url(./fonts/Poppins-Regular.ttf);
+    }
+}
+.bg-Solitude {
+    --tw-bg-opacity: 1;
+    background-color: rgb(233 233 234 / var(--tw-bg-opacity));
+}
